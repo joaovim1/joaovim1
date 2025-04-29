@@ -17,10 +17,10 @@
 ## 📫 Contato
 
 <div>
-  <a href="mailto:joaovim1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-vitor-ikko-morelli-16a18b196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/joaovitorim/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/12o6dy9RGBDPV9jNtqRA300kW84MCfpMu/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-%23EA4335?style=for-the-badge&logo=resume&logoColor=white" target="_blank"></a>
+  <a href="mailto:joaovim1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joão-vitor-ikko-morelli-16a18b196/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/joaovitorim/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/12o6dy9RGBDPV9jNtqRA300kW84MCfpMu/view?usp=sharing"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-%23EA4335?style=for-the-badge&logo=resume&logoColor=white"></a>
 </div>
 
 ---
