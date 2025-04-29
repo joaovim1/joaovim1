@@ -8,9 +8,10 @@
   <img align="center" alt="joao-javascript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="joao-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="joao-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="joao-sql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-> 💼 Trabalho com **Java (incluindo JSP e Servlets)** no backend e **JavaScript, HTML e CSS** no frontend.
+> 💼 Trabalho com **Java (incluindo JSP e Servlets)** no backend, **JavaScript, HTML e CSS** no frontend, e também utilizo **SQL** para manipulação e consulta de dados.
 
 ---
 
@@ -24,6 +25,3 @@
 </div>
 
 ---
-
-
-
