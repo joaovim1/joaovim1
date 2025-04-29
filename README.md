@@ -1,4 +1,4 @@
-# 🖥️ João Vitor Ikko Morelli - Desenvolvedor Full Stack Web
+# 🖥️ João Vitor Ikko Morelli - Desenvolvedor Full Stack
 
 
 ## 🚀 Tecnologias que uso atualmente
