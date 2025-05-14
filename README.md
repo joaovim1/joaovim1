@@ -13,7 +13,7 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovim1&layout=compact&theme=radical)
 
 > 💼 Trabalho com **Java (incluindo JSP e Servlets)** no backend, **JavaScript, HTML e CSS** no frontend, e também utilizo **SQL** para manipulação e consulta de dados.
 
