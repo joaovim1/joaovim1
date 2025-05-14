@@ -5,23 +5,50 @@
 <table>
   <tr>
     <td valign="top">
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="60" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" />
-      </div>
-    </td>
-    <td valign="top">
-      <strong>📊 Linguagens mais usadas</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovim1&layout=compact&theme=radical" />
-    </td>
+
+### 🎨 Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" />
+</div>
+
+### 🧠 Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
+</div>
+
+### 🗄️ Banco de Dados
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" />
+</div>
+
+### 📱 Mobile
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" />
+</div>
+
+### ☁️ DevOps / Cloud
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="60" />
+</div>
+
+</td>
+<td valign="top">
+
+### 📊 Linguagens mais usadas
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovim1&layout=compact&theme=radical" />
+
+</td>
   </tr>
 </table>
 
-> 💼 Trabalho com **Java (incluindo JSP e Servlets)** no backend, **JavaScript, HTML e CSS** no frontend, e também utilizo **SQL** para manipulação e consulta de dados.
+> 💼 Trabalho com **Java (JSP, Servlets, Spring Boot)** no backend, **JavaScript, HTML e CSS** no frontend. Utilizo **PostgreSQL**, **MySQL** e **SQL Server** como bancos de dados, **Flutter** para apps mobile, e **Azure** na nuvem. Também programo em **C#** para aplicações desktop.
 
 ---
 
