@@ -9,11 +9,13 @@
   <img align="center" alt="joao-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="joao-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="joao-sql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovim1&layout=compact&theme=radical)
+  ## 📊 Linguagens mais usadas
+
 </div>
 
-## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovim1&layout=compact&theme=radical)
+
 
 > 💼 Trabalho com **Java (incluindo JSP e Servlets)** no backend, **JavaScript, HTML e CSS** no frontend, e também utilizo **SQL** para manipulação e consulta de dados.
 
