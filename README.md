@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-> 💼 Trabalho com **Java (JSP, Servlets, Spring Boot)** no backend, **JavaScript, HTML e CSS** no frontend. Utilizo **PostgreSQL**, **MySQL** e **SQL Server** como bancos de dados, **Flutter** para apps mobile, e **Azure** na nuvem. Também programo em **C#** para aplicações desktop.
+> 💼 Trabalho com **Java (JSP, Servlets)** no backend, **JavaScript, HTML e CSS** no frontend.
 
 ---
 
