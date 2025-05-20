@@ -29,7 +29,7 @@
 </td>
 <td valign="top">
 
-### 📊 Linguagens mais usadas
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovim1&layout=compact&theme=radical" />
 
